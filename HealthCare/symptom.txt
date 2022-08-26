@@ -174,9 +174,3 @@ pred_diseases: 'Corona',
 analgesics: 'Covaxine or Covishield', 
 treatment scans:'Blood test, Corona test', 
 diet:'Grapes, Gooseberries,Oranges,Lemon,Limes,Broccoli'.
-
-Who is nikhil-->
-pred_diseases: 'AIDS', 
-analgesics: 'go fuck a monkey', 
-treatment scans:'Blood test, Corona test', 
-diet:'Grapes, Gooseberries,Oranges,Lemon,Limes,Broccoli'.
